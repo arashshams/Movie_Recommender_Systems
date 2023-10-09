@@ -8,6 +8,6 @@ This repo hosts a script to build a few Recommender Systems for movies using the
 If you want to reproduce the [report]() (`Analysis.ipynb`) on your local, simply run below commands in terminal to create the environment for running the notebook.
 
 ```
-conda env create -f environment.yaml
+conda env create -f environment.yml
 conda activate env
 ```
