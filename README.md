@@ -5,7 +5,7 @@ This repo hosts a script to build a few Recommender Systems for movies using the
 
 ### Dependencies
 
-If you want to reproduce the [report]() (`Analysis.ipynb`) on your local, simply run below commands in terminal to create the environment for running the notebook.
+If you want to reproduce the [report](https://github.com/arashshams/Movie_Recommender_Systems/blob/master/Analysis.ipynb) (`Analysis.ipynb`) on your local, simply run below commands in terminal to create the environment for running the notebook.
 
 ```
 conda env create -f environment.yaml
